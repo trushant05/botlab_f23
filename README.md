@@ -10,18 +10,12 @@ To install, we need to build and install binaries, then install the SLAM and mot
 ```
 The script will ask for the administrator password.
 
-## template_generate.py
+## Results
 
-This file is used to generate `mbot-autonomy` repository with solutions subtracted. 
-By running `python3 template_generate.py`, a template codebase for student use will be generated.
+### CheckPoint 1
+Fast Run:
+![](./assets/cp1/FastRun.mp4)
+![](./assets/cp1/FastRun.png)
+![](./assets/cp1/SlowRun.mp4)
+![](./assets/cp1/SlowRun.png)
 
-To use it, firstly created a new branch from the `main` branch, then run the `template_generate.py` file.
-
-```
-// BEGIN task1
-void myFunction1() {
-    // Some code here...
-}
-// END task1
-```
-- Tag the relavent content like this 
