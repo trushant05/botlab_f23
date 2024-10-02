@@ -1,0 +1,2 @@
+/usr/local/bin/mbot_slam
+/usr/local/bin/mbot_motion_controller
