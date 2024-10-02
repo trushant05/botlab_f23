@@ -26,4 +26,7 @@ Slow Run:
 ![](./assets/cp1/SlowRun.png)
 
 
+### CheckPoint 2
+SLAM Map:
 
+![](./assets/cp2/map.png)
