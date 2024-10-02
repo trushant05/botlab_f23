@@ -14,8 +14,12 @@ The script will ask for the administrator password.
 
 ### CheckPoint 1
 Fast Run:
-![](./assets/cp1/FastRun.mp4)
-![](./assets/cp1/FastRun.png)
-![](./assets/cp1/SlowRun.mp4)
-![](./assets/cp1/SlowRun.png)
+https://github.com/user-attachments/assets/71d5defe-b30a-43f2-9b5c-22888b7098a4
+![](./assets/FastRun.png)
+
+Slow Run:
+https://github.com/user-attachments/assets/6f337a6f-ea33-4ad2-8510-eb6738889633
+![](./assets/SlowRun.png)
+
+
 
